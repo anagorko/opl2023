@@ -1,3 +1,12 @@
+# Optymalizacja Liniowa 2023/24
+
+Część materiałów do zajęć z Optymaliacji Liniowej na MIM UW w semestrze letnim
+2023/24.
+
+W repozytorium znajdują się notatniki do otwarcia na serwerze [sage.mimuw.edu.pl](https://sage.mimuw.edu.pl). Pozostałe materiały można znaleźć w przedmiotowym moodle'u.
+
+---
+
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 This work is licensed under a
